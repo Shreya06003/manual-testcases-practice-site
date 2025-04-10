@@ -15,12 +15,10 @@ These test cases were created as part of **learning and practice** in the field 
 ## 📂 Files Included
 
 - `testcases-practicetestautomation.com.xlsx`: Excel sheet containing categorized and detailed test cases.
-- Screenshots (if added): Representing actual UI elements like login forms, buttons, etc.
 
 ## 🔒 Note
 
 This is a **basic project meant for personal learning only** and is not affiliated with the actual website or used for commercial purposes.
-
 ---
 
 ✅ **Feel free to fork, clone, or use it for your own learning!**  
